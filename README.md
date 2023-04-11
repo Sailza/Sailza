@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **shailzagupta2820@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/sailza-kumari](linkedin.com/in/sailza-kumari)
+- 📄 Know about my experiences [linkedin.com/in/sailza-kumari](https://www.linkedin.com/in/sailza-kumari/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
