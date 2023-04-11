@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [sailza.github.io/PortFolio.github.io/](sailza.github.io/PortFolio.github.io/)
+- 👨‍💻 All of my projects are available at [sailza.github.io/PortFolio.github.io/](https://sailza.github.io/ShailPort/)
 
 - 💬 Ask me about **JAVA, SQL, HTML,CSS,JAVASCRIPT, REACT JS**
 
