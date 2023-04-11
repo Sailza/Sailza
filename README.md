@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Sailza</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A Passionate Web Developer from India</h3>
 <img align ="right" alt ="Coding" width ="500" src ="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
 
 
